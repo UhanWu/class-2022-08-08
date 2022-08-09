@@ -6,15 +6,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-08-09T08:43:11+08:00"
-    },
-    {
-      "path": "analysis.html",
-      "title": "Social Capital",
-      "author": [],
-      "date": "2022-08-02",
-      "contents": "\n\n\n\n\n\n\n\n\nEconomic Connectedness\n\n\nHome\nAbout\n☰\n\n\n  \n    \n      \n        \n        \n        \n      \n      \n    \n    \n      \n  Home\n\n\n  About\n\n      \n  \n\n\n\n\n\n\nSocial Capital\n2022-08-02\n\n\n\n\n\n\n|> ggplot(aes(x = pop_state, y = avg_ec)) + geom_point() +\n\n\n\n\n\n\n\n\n\n\n",
-      "last_modified": "2022-08-09T08:43:34+08:00"
+      "last_modified": "2022-08-09T08:56:53+08:00"
     },
     {
       "path": "index.html",
@@ -22,7 +14,7 @@
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\n\n\n\n\n\n\n\n\n\n\n\n\n",
-      "last_modified": "2022-08-09T08:43:43+08:00"
+      "last_modified": "2022-08-09T08:57:16+08:00"
     }
   ],
   "collections": []
